@@ -55,8 +55,8 @@
     <ul>
       <li>
         <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >vue-router</a
-        >
+          >vue-router
+        </a>
       </li>
       <li>
         <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
@@ -66,8 +66,8 @@
           href="https://github.com/vuejs/vue-devtools#vue-devtools"
           target="_blank"
           rel="noopener"
-          >vue-devtools</a
-        >
+          >vue-devtools
+        </a>
       </li>
       <li>
         <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
@@ -88,11 +88,11 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: 'HelloWorld',
   props: {
     msg: String
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
